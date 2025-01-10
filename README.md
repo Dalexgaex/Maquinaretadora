@@ -1,36 +1,59 @@
-# Proyecto de Renta de Maquinaria Pesada - Mérida, Yucatán
+![Renta de Maquinaria Pesada](https://via.placeholder.com/1200x400.png?text=Renta+de+Maquinaria+Pesada)
 
-Este repositorio contiene el desarrollo de una plataforma **web y móvil** diseñada para facilitar la renta de maquinaria pesada en la ciudad de **Mérida, Yucatán**. El proyecto busca conectar propietarios de maquinaria con empresas o personas interesadas en alquilar equipos, ofreciendo un servicio eficiente, seguro y accesible.
+# 🏗️ Plataforma de Renta de Maquinaria Pesada - Mérida, Yucatán
 
-## 🚀 Funcionalidades Principales
+> Una plataforma moderna que conecta a propietarios y arrendatarios de maquinaria pesada para satisfacer las crecientes demandas de construcción e infraestructura en Mérida, Yucatán.
 
-1. **Catálogo de Maquinaria:**
-   - Visualización de equipos disponibles con fotos, descripciones y precios.
-   - Filtros para buscar por tipo de maquinaria, precio, y disponibilidad.
+---
 
-2. **Gestión de Usuarios:**
-   - Registro y autenticación para propietarios y arrendatarios.
-   - Perfil de usuario con información personal, historial de rentas y preferencias.
+## 🚜 **Acerca del Proyecto**
 
-3. **Procesos de Renta:**
-   - Solicitud de renta directamente desde la plataforma.
-   - Confirmación y notificaciones de disponibilidad y estado de la renta.
+Este proyecto está diseñado para digitalizar y optimizar el proceso de renta de maquinaria pesada mediante una **plataforma web y móvil**, accesible y eficiente. Su objetivo principal es ofrecer una experiencia intuitiva tanto para propietarios como para arrendatarios.
 
-4. **Soporte Web y Móvil:**
-   - **Web**: Acceso desde navegadores para gestionar rentas y consultas.
-   - **Móvil**: Aplicación optimizada para dispositivos iOS y Android.
+---
 
-## 📱 Tecnologías Utilizadas
+## 🎯 **Características Principales**
 
-- **Frontend Web**: [Angular](https://angular.io/) para la interfaz web.
-- **Aplicación Móvil**: [Flutter](https://flutter.dev/) para una experiencia nativa en iOS y Android.
-- **Backend**: [Node.js](https://nodejs.org/) con [Express](https://expressjs.com/) para la API.
-- **Base de Datos**: [PostgreSQL](https://www.postgresql.org/) para el almacenamiento de datos.
-- **Hosting**:
-  - Web: [InfinityFree](https://www.infinityfree.net/).
-  - Backend: [Render](https://render.com/) o similar.
+### 📖 **Catálogo Completo**
+- Imágenes de alta calidad de la maquinaria.
+- Detalles como descripción, precios, y disponibilidad.
+- Filtros avanzados para buscar maquinaria por categoría, precio y ubicación.
 
-## 🏗️ Arquitectura del Proyecto
+![Catálogo de Maquinaria](https://via.placeholder.com/800x400.png?text=Vista+del+Cat%C3%A1logo)
 
-El proyecto sigue una arquitectura **modular** y **escalable** para garantizar la facilidad de mantenimiento y nuevas integraciones.  
+---
+
+### 👥 **Gestión de Usuarios**
+- **Registro y Login**: Perfiles personalizados para propietarios y arrendatarios.
+- **Historial de Rentas**: Accede fácilmente a tu historial de transacciones.
+- **Notificaciones en Tiempo Real**: Actualizaciones sobre solicitudes y estado de rentas.
+
+---
+
+### 📅 **Proceso Simplificado de Renta**
+1. Encuentra el equipo que necesitas.
+2. Solicita una renta directamente desde la plataforma.
+3. Recibe confirmaciones y coordina la entrega con el propietario.
+
+![Flujo de Renta](https://via.placeholder.com/800x400.png?text=Proceso+de+Renta)
+
+---
+
+## 🛠️ **Tecnologías Utilizadas**
+
+### **Frontend:**
+- **Web:** Angular para el desarrollo de la aplicación web.
+- **Móvil:** Flutter para aplicaciones nativas en iOS y Android.
+
+### **Backend:**
+- **Node.js y Express:** Desarrollo de la API RESTful.
+- **Base de Datos:** PostgreSQL para gestionar usuarios, maquinaria y rentas.
+
+### **Infraestructura:**
+- **Hosting Web:** InfinityFree para la página web estática.
+- **Backend:** Render para la API y base de datos.
+
+---
+
+## 📂 **Estructura del Proyecto**
 
